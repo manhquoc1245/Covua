@@ -1,0 +1,14 @@
+server:192.168.43.57
+port:5050
+music:off
+sound:on
+musicVol:50
+soundVol:50
+timeLimit:60
+imgFolder:Type4
+W_R:255
+W_G:255
+W_B:0
+B_R:0
+B_G:0
+B_B:0

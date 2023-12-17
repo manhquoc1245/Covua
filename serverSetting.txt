@@ -1,0 +1,3 @@
+localHost:no
+port:5050
+serverDatabaseName:LAPTOP-98D7LRGC\SQLEXPRESS
